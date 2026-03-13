@@ -1,5 +1,7 @@
 # Day 1 – Python Basics
 
+hello.py:
+
 This script demonstrates basic Python concepts:
 
 - Variables
@@ -8,4 +10,7 @@ This script demonstrates basic Python concepts:
 
 Run the program with:
 
-python hello.py
+lists_loops.py:
+
+This script demonstrates creating a list and adding strings to it
+Then it prints and enumerates the list and print a numbered list
