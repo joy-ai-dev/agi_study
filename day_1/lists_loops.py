@@ -5,4 +5,5 @@ for city in cities:
 
 print("Cities in dataset once again:\n")
 for i, city in enumerate(cities, start=1):
-    print(i, " - ", city) 
+    print(i, " - ", city)
+     

@@ -8,7 +8,6 @@ This script demonstrates basic Python concepts:
 - User input
 - Output printing
 
-Run the program with:
 
 lists_loops.py:
 
